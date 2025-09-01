@@ -1,6 +1,15 @@
+<!--
+ * @Author: YinJie yj.watermelon@gmail.com
+ * @Date: 2025-09-01 17:43:05
+ * @LastEditors: YinJie yj.watermelon@gmail.com
+ * @LastEditTime: 2025-09-01 18:18:26
+ * @FilePath: /waterlovemelon.github.io/_posts/访问网络时DNS的过程.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
+
 # 访问网络时 DNS 的过程.md
 
-![图示](./asset/dns流程.png)
+![图示](./network/asset/dns流程.png)
 
 ## 以百度为例
 
