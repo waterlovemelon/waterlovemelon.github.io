@@ -1,12 +1,10 @@
 ---
 layout: post
-title: NetworkManager 有线网络（以太网）连接流程
+title: NetworkManager以太网连接流程
 date: 2025-09-17 15:53:39 +0800
 categories: [网络]
 tags: [NetworkManager, 以太网, 联网]
 ---
-
-# NetworkManager 有线网络（以太网）连接流程
 
 ## 概述
 
